@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+    background-color: rgb(179,96,80);
+
+}
+
+.bottle{
+    background: rgb(246,244,236);
+}
+.bottle-title{
+    text-align: center;
+    color: white;
+}
+.tizaa {
+    text-align: center;
+    background: rgb(169,174,141);
+    color: aliceblue;
+}
+.tizaaa{
+    text-align: center;
+    margin: 50;
+    padding: 0;
+    background: ;
+    color: blue;
+
+}
+.tizaaaa{
+    text-align: center;
+    background: rgb(169,174,141);
+    color: blueviolet;
+    margin: 100px;
+    padding: 100px; 
+}
+.tizaaaaa{
+    text-align: center;
+    background: rgb(169,174,141);
+    color: blueviolet;
+    margin: 25px;
+    padding: 30px;
+
+}
+.tizabl{
+    text-align: left ;
+   
+    color: blueviolet;
+ background: rgb(189,226,227);
+}
+.tizablw{
+    text-align: center;
+    background: rgb(189,226,227);
+    color: darkmagenta;
+
+}
+.tizablwk{
+    text-align: right;
+    background: rgb(189,226,227);
+    color: darkmagenta;
+
+}
+.tizablwkv{
+    text-align: center;
+    padding: 100px;
+    margin: 100px
+    background:rgb(248,248,248) ;
+    col
+
+}
+.black{
+    text-align: center;
+    background:rgb(248,248,248) ;
+    color: brown;
+
+}
+.az{
+    color: blueviolet;
+
+}
+.azz{
+    color: blueviolet;
+}
+.bz{
+    color: blueviolet
+}
+.bzz{
+    color: blueviolet ;
+}
+.qwr{
+    color: pink;
+}
+.rwq{
+  color: pink;  
+}
+.tyu{
+color: pink;
+}
+.gode{
+    background: yellow;
+    color: blue;
+}
