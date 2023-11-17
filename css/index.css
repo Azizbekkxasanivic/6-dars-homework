@@ -2,103 +2,78 @@
     margin: 0;
     padding: 0;
 }
-.container{
-    width: 1200px;
-    margin: auto;
-    background-color: rgb(179,96,80);
 
-}
-
-.bottle{
-    background: rgb(246,244,236);
-}
-.bottle-title{
+section h1{
+    padding: 0px 10px 0px 35px;
+    background: #B36050;
     text-align: center;
+    font-size: large;
+}
+
+.img{
+    text-align: center;
+}
+
+.one{
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+    background: D;
     color: white;
+    padding-top: 20px;
 }
-.tizaa {
-    text-align: center;
-    background: rgb(169,174,141);
-    color: aliceblue;
-}
-.tizaaa{
-    text-align: center;
-    margin: 50;
-    padding: 0;
-    background: ;
-    color: blue;
 
-}
-.tizaaaa{
+section {
     text-align: center;
-    background: rgb(169,174,141);
-    color: blueviolet;
-    margin: 100px;
-    padding: 100px; 
+ 
+    
+    padding-top: 70px;
+    font-size: xx-large;
 }
-.tizaaaaa{
-    text-align: center;
-    background: rgb(169,174,141);
-    color: blueviolet;
-    margin: 25px;
-    padding: 30px;
 
+section button{
+
+color:green;
+padding: 10px 0px 10px 0px;
+font-size: medium;
+width: 128px
 }
-.tizabl{
-    text-align: left ;
+
+.title{
+    text-align: center;
    
-    color: blueviolet;
- background: rgb(189,226,227);
+    padding: 100px 0px 0px 0px;
 }
-.tizablw{
+
+
+.images{
+    width: 500px;
+    display: inline-block;
     text-align: center;
-    background: rgb(189,226,227);
-    color: darkmagenta;
-
+    padding-top: 100px;
 }
-.tizablwk{
-    text-align: right;
-    background: rgb(189,226,227);
-    color: darkmagenta;
 
-}
-.tizablwkv{
+.img_3{
     text-align: center;
-    padding: 100px;
-    margin: 100px
-    background:rgb(248,248,248) ;
-    col
-
+    padding-top: 50px;
 }
-.black{
+
+.microlab{
     text-align: center;
-    background:rgb(248,248,248) ;
-    color: brown;
+    border-radius: 10px;
+    padding-top: 20px;
+   
+    display: inline-block;
+}
 
+.images_6{
+    text-align: center;
+    padding-top: 50px;
 }
-.az{
-    color: blueviolet;
 
-}
-.azz{
-    color: blueviolet;
-}
-.bz{
-    color: blueviolet
-}
-.bzz{
-    color: blueviolet ;
-}
-.qwr{
-    color: pink;
-}
-.rwq{
-  color: pink;  
-}
-.tyu{
-color: pink;
-}
-.gode{
-    background: yellow;
-    color: blue;
+.padding{
+    text-align: center;
+
 }
